@@ -1,4 +1,4 @@
 # PicGo
 存放图片 图床仓库
 ## PicGo token
-`ca57fc8d0176f237451da20e86d11fda7cfbdf34`
+`d98e452fd0e11da2b7b241562426c57fc8fee419`
